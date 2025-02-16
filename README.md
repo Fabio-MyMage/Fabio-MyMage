@@ -6,6 +6,7 @@ I am an experienced and versatile IT professional with a strong background in Li
 I am proficient in Kubernetes, Terraform, CI/CD, Prometheus, Python, PHP, and a wide array of infrastructure and application optimization. 
 
 ## 🛠 Certifications
+- HashiCorp Certified Terraform Associate
 - Certified Argo Project Associate
 - Certified Kubernetes Application Developer
 - Prometheus Certified Associate
